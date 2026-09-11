@@ -12,6 +12,17 @@ const PORT = 3000;
 app.use(express.json({ limit: '15mb' }));
 app.use(express.urlencoded({ extended: true, limit: '15mb' }));
 
+// URL prefix normalizer for Vercel Serverless Function rewrites
+app.use((req, res, next) => {
+  if (!req.url.startsWith('/api')) {
+    const knownEndpoints = ['/disease', '/chat', '/crop', '/risk', '/weather', '/officials', '/schemes', '/meta', '/health'];
+    if (knownEndpoints.some((ep) => req.url === ep || req.url.startsWith(ep + '/') || req.url.startsWith(ep + '?'))) {
+      req.url = '/api' + req.url;
+    }
+  }
+  next();
+});
+
 const upload = multer({
   storage: multer.memoryStorage(),
   limits: { fileSize: 10 * 1024 * 1024 },
@@ -20,10 +31,11 @@ const upload = multer({
 // Lazy Gemini Client
 let aiClient: GoogleGenAI | null = null;
 function getGemini(): GoogleGenAI | null {
-  if (!aiClient && process.env.GEMINI_API_KEY) {
+  const apiKey = process.env.GEMINI_API_KEY || process.env.VITE_GEMINI_API_KEY;
+  if (!aiClient && apiKey) {
     try {
       aiClient = new GoogleGenAI({
-        apiKey: process.env.GEMINI_API_KEY,
+        apiKey,
         httpOptions: {
           headers: {
             'User-Agent': 'aistudio-build',
@@ -199,7 +211,7 @@ Return STRICTLY a JSON object matching this schema:
 }`;
         const aiRes = await Promise.race([
           gemini.models.generateContent({
-            model: 'gemini-3.8-flash',
+            model: 'gemini-2.5-flash',
             contents: prompt,
             config: { responseMimeType: 'application/json' },
           }),
@@ -305,7 +317,7 @@ Guidelines:
         ];
 
         const response = await gemini.models.generateContent({
-          model: 'gemini-3.8-flash',
+          model: 'gemini-2.5-flash',
           contents: chatContent,
         });
 
@@ -577,7 +589,7 @@ Respond STRICTLY with a valid JSON object matching this schema:
         // Helper to call gemini with one retry on 503
         const callGeminiVision = async () => {
           return await gemini.models.generateContent({
-            model: 'gemini-3.8-flash',
+            model: 'gemini-2.5-flash',
             contents: [
               {
                 role: 'user',
@@ -699,4 +711,10 @@ async function startServer() {
   });
 }
 
-startServer();
+// Start standalone server only if not running inside Vercel Serverless environment
+if (!process.env.VERCEL && process.env.NODE_ENV !== 'test') {
+  startServer();
+}
+
+export default app;
+
