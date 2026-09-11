@@ -1,0 +1,6 @@
+{
+  "name": "AGROVAANI — AI Farming Advisor",
+  "description": "Phlora Helpline — Multilingual AI-powered agricultural guidance for crops, diseases, risk analysis, weather and government schemes.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

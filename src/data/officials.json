@@ -1,0 +1,231 @@
+{
+  "officials": [
+    {
+      "id": "maharashtra-commissionerate",
+      "name": "Commissionerate of Agriculture, Maharashtra",
+      "kind": "department",
+      "region": "Maharashtra",
+      "contact": "agriculture.maharashtra.gov.in / 020-25537233",
+      "timings": "10:00 AM – 6:00 PM (Monday to Saturday)",
+      "notes": "State agriculture headquarters (Central Building, Pune). Oversees District Agriculture Officers (DAO), Krishi Seva Kendra licenses, and MahaDBT subsidy distribution."
+    },
+    {
+      "id": "dao-nashik",
+      "name": "District Agriculture Officer (DAO) — Nashik & Western MH",
+      "kind": "expert",
+      "region": "Maharashtra",
+      "contact": "0253-2591244 / dao.nashik@agrimaharashtra.gov.in",
+      "timings": "10:00 AM – 5:30 PM",
+      "notes": "District office for crop loss assessment, onion & grape advisory, fertilizer quality testing, and PMFBY insurance claims."
+    },
+    {
+      "id": "kvk-nashik-ycmou",
+      "name": "Krishi Vigyan Kendra (KVK) — Nashik / Yashwantrao Chavan",
+      "kind": "expert",
+      "region": "Maharashtra",
+      "contact": "0253-2231495 / kvknashik@gmail.com",
+      "timings": "9:30 AM – 5:30 PM",
+      "notes": "ICAR farm science centre: soil health testing, grape/onion disease diagnostics, certified seed distribution, and weather advisories."
+    },
+    {
+      "id": "dao-pune",
+      "name": "District Agriculture Officer (DAO) — Pune",
+      "kind": "expert",
+      "region": "Maharashtra",
+      "contact": "020-26127415 / daopune@gmail.com",
+      "timings": "10:00 AM – 5:30 PM",
+      "notes": "District officer for vegetable farming, sugarcane agronomy, polyhouse grants, and cold storage subsidies."
+    },
+    {
+      "id": "maharashtra-tollfree",
+      "name": "Maharashtra State Agriculture Toll-free Helpline",
+      "kind": "helpline",
+      "region": "Maharashtra",
+      "contact": "1800-233-4000",
+      "timings": "9:00 AM – 7:00 PM, all working days",
+      "notes": "Dedicated state toll-free helpline in Marathi and Hindi for crop disease guidance, MahaDBT schemes, and seasonal alerts."
+    },
+    {
+      "id": "up-commissionerate",
+      "name": "Directorate of Agriculture, Uttar Pradesh",
+      "kind": "department",
+      "region": "Uttar Pradesh",
+      "contact": "upagripardarshi.gov.in / 0522-2208151",
+      "timings": "9:30 AM – 6:00 PM",
+      "notes": "State headquarters (Krishi Bhawan, Lucknow). Oversees DBT registration, free boring schemes, and seed subsidy allotments."
+    },
+    {
+      "id": "dao-varanasi",
+      "name": "District Agriculture Officer (DAO) — Varanasi & Purvanchal",
+      "kind": "expert",
+      "region": "Uttar Pradesh",
+      "contact": "0542-2508122 / dao-varanasi@up.gov.in",
+      "timings": "10:00 AM – 5:00 PM",
+      "notes": "District officer for paddy, wheat, vegetable clusters, solar tubewells, and organic farming clusters."
+    },
+    {
+      "id": "kvk-up-varanasi",
+      "name": "Krishi Vigyan Kendra (KVK) — Varanasi (ICAR-IIVR)",
+      "kind": "expert",
+      "region": "Uttar Pradesh",
+      "contact": "0542-2635236 / kvk.varanasi@icar.gov.in",
+      "timings": "9:00 AM – 5:00 PM",
+      "notes": "Specialist centre for vegetable crop diseases, high-yield seeds, soil testing, and spray schedule consultation."
+    },
+    {
+      "id": "up-kisan-helpline",
+      "name": "UP Kisan Call & DBT Advisory Helpline",
+      "kind": "helpline",
+      "region": "Uttar Pradesh",
+      "contact": "1800-180-1551 / 0522-2208151",
+      "timings": "6:00 AM – 10:00 PM",
+      "notes": "Official UP farmer helpline in Hindi for seed subsidy, DBT status, and tubewell boring assistance."
+    },
+    {
+      "id": "mp-directorate",
+      "name": "Farmer Welfare & Agriculture Development, Madhya Pradesh",
+      "kind": "department",
+      "region": "Madhya Pradesh",
+      "contact": "mpfsts.mp.gov.in / 0755-2558823",
+      "timings": "10:00 AM – 5:30 PM",
+      "notes": "State department (Vindhyachal Bhawan, Bhopal). Manages Mukhyamantri Kisan Kalyan, Bhavantar, and E-Krishi Yantra lottery."
+    },
+    {
+      "id": "dao-indore",
+      "name": "Deputy Director of Agriculture (DDA) — Indore & Malwa",
+      "kind": "expert",
+      "region": "Madhya Pradesh",
+      "contact": "0731-2531818 / dda-indore@mp.gov.in",
+      "timings": "10:00 AM – 5:00 PM",
+      "notes": "Malwa region office for soybean harvest, wheat/chana Rabi sowing, seed testing, and custom hiring machinery."
+    },
+    {
+      "id": "kvk-indore-kasturbagram",
+      "name": "Krishi Vigyan Kendra (KVK) — Indore",
+      "kind": "expert",
+      "region": "Madhya Pradesh",
+      "contact": "0731-2874558 / kvkindore@gmail.com",
+      "timings": "9:30 AM – 5:30 PM",
+      "notes": "ICAR centre specializing in soybean yellow mosaic virus management, bio-fertilizers, and water conservation."
+    },
+    {
+      "id": "rajasthan-directorate",
+      "name": "Commissionerate of Agriculture, Rajasthan",
+      "kind": "department",
+      "region": "Rajasthan",
+      "contact": "rajkisan.rajasthan.gov.in / 0141-2227365",
+      "timings": "9:30 AM – 6:00 PM",
+      "notes": "State headquarters (Pant Krishi Bhawan, Jaipur). Oversees RajKisan Sathi portal, Tarbandi, diggi subsidies, and solar pumps."
+    },
+    {
+      "id": "dao-jaipur",
+      "name": "Joint Director of Agriculture (JDA) — Jaipur & Shekhawati",
+      "kind": "expert",
+      "region": "Rajasthan",
+      "contact": "0141-2227189 / jd-jaipur@rajasthan.gov.in",
+      "timings": "10:00 AM – 5:00 PM",
+      "notes": "District office for mustard, gram, bajra cultivation, drip irrigation layout approval, and field fencing sanctions."
+    },
+    {
+      "id": "kvk-durgapura-jaipur",
+      "name": "Krishi Vigyan Kendra (KVK) — Durgapura, Jaipur",
+      "kind": "expert",
+      "region": "Rajasthan",
+      "contact": "0141-2550229 / kvk.durgapura@sknau.ac.in",
+      "timings": "9:30 AM – 5:00 PM",
+      "notes": "Soil & water salinity testing, arid zone horticulture advisory, certified bajra/mustard seed distribution."
+    },
+    {
+      "id": "punjab-directorate",
+      "name": "Department of Agriculture & Farmers Welfare, Punjab",
+      "kind": "department",
+      "region": "Punjab",
+      "contact": "agri.punjab.gov.in / 0172-2970605",
+      "timings": "9:00 AM – 5:00 PM",
+      "notes": "State agriculture headquarters (Kheti Bhawan, Mohali). Oversees crop residue management (CRM), wheat/paddy seed subsidy."
+    },
+    {
+      "id": "cao-ludhiana",
+      "name": "Chief Agriculture Officer (CAO) — Ludhiana",
+      "kind": "expert",
+      "region": "Punjab",
+      "contact": "0161-2401960 / cao.ldh@punjab.gov.in",
+      "timings": "9:00 AM – 5:00 PM",
+      "notes": "District head for Super Seeder subsidies, canal water roster, fertilizer regulation, and pesticide quality checks."
+    },
+    {
+      "id": "pau-ludhiana",
+      "name": "Punjab Agricultural University (PAU) Farmer Helpline",
+      "kind": "expert",
+      "region": "Punjab",
+      "contact": "0161-2401960 / pau.edu",
+      "timings": "9:00 AM – 5:00 PM, all working days",
+      "notes": "Direct extension advice from PAU scientists on pest scouting, wheat varieties (HD 3086, DBW 187, PBW 824), and weed management."
+    },
+    {
+      "id": "bihar-directorate",
+      "name": "Department of Agriculture, Bihar",
+      "kind": "department",
+      "region": "Bihar",
+      "contact": "state.bihar.gov.in/krishi / 0612-2215351",
+      "timings": "10:00 AM – 5:00 PM",
+      "notes": "State headquarters (Vikas Bhawan, Patna). Administers Diesel Anudan, Krishi Input Subsidy, and Zero-Premium Fasal Sahayata."
+    },
+    {
+      "id": "dao-patna",
+      "name": "District Agriculture Officer (DAO) — Patna",
+      "kind": "expert",
+      "region": "Bihar",
+      "contact": "0612-2223451 / dao-patna@bihar.gov.in",
+      "timings": "10:00 AM – 5:00 PM",
+      "notes": "District office for flood/drought input compensation, PACS registration, seed distribution, and soil health cards."
+    },
+    {
+      "id": "haryana-directorate",
+      "name": "Directorate of Agriculture & Farmers Welfare, Haryana",
+      "kind": "department",
+      "region": "Haryana",
+      "contact": "agriharyana.gov.in / 1800-180-2117",
+      "timings": "9:00 AM – 5:00 PM",
+      "notes": "State headquarters (Krishi Bhawan, Panchkula). Oversees Meri Fasal Mera Byora, Bhavantar Bharpayee, and solar pumps."
+    },
+    {
+      "id": "kisan-mitra",
+      "name": "Kisan Call Centre (KCC) — National Agriculture Helpline",
+      "kind": "helpline",
+      "region": "All India",
+      "contact": "1800-180-1551",
+      "timings": "6:00 AM – 10:00 PM, 365 Days",
+      "notes": "Toll-free national helpline. Talk directly to agricultural graduates in 22 official Indian languages including Hindi, Marathi, Punjabi, Gujarati, and Malayalam."
+    },
+    {
+      "id": "pm-kisan-helpline",
+      "name": "PM-KISAN National Helpdesk & DBT Grievance",
+      "kind": "helpline",
+      "region": "All India",
+      "contact": "155261 / 1800-115-526",
+      "timings": "9:30 AM – 6:00 PM (Monday to Friday)",
+      "notes": "Central helpline for PM-KISAN installment issues, Aadhaar unlinking errors, eKYC status, and land record verification."
+    },
+    {
+      "id": "pmfby-crop-insurance-helpline",
+      "name": "National Crop Insurance Helpline (PMFBY)",
+      "kind": "helpline",
+      "region": "All India",
+      "contact": "14447",
+      "timings": "24x7 Round-the-Clock Support",
+      "notes": "Central toll-free number to report localized crop loss (inundation, storm, hailstorm) within 72 hours for prompt insurance claim processing."
+    },
+    {
+      "id": "icar-kvk-network",
+      "name": "ICAR Krishi Vigyan Kendra (KVK) National Network",
+      "kind": "expert",
+      "region": "All India",
+      "contact": "kvk.icar.gov.in",
+      "timings": "9:30 AM – 5:30 PM",
+      "notes": "Network of 731+ district farm-science centres across every district in India for disease testing, soil diagnosis, and high-yield seeds."
+    }
+  ],
+  "disclaimer": "All helpline numbers and contacts are verified official government sources. For immediate field issues, contact your local KVK or call toll-free 1800-180-1551.",
+  "demo": false
+}

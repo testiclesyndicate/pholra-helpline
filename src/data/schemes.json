@@ -1,0 +1,462 @@
+{
+  "schemes": [
+    {
+      "id": "namo-shetkari-mh",
+      "name": "Namo Shetkari Mahasanman Nidhi Yojana",
+      "nameLocal": "नमो शेतकरी महासन्मान निधी योजना (अतिरिक्त ₹6,000 वार्षिक)",
+      "state": "Maharashtra",
+      "states": ["Maharashtra"],
+      "category": "Income Support & Cash Benefit",
+      "categories": ["Income Support & Cash Benefit", "Direct Benefit Transfer"],
+      "summary": "Maharashtra State Government top-up scheme that adds ₹6,000 per year directly to PM-KISAN eligible farmers, providing a total of ₹12,000 annual direct cash support.",
+      "subsidyHighlight": "₹6,000/Year Extra State Cash (Total ₹12,000/Year)",
+      "ministry": "Agriculture Department, Government of Maharashtra",
+      "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "All PM-KISAN registered landholding farmers in Maharashtra",
+      "eligibility": "Farmers resident in Maharashtra whose 7/12 land records are verified and who receive PM-KISAN installments.",
+      "benefits": "₹6,000/year delivered in 3 equal installments (₹2,000 each) directly into Aadhaar-seeded bank accounts without separate physical application.",
+      "documentsRequired": [
+        "Aadhaar Card",
+        "Maharashtra 7/12 & 8A Land Extract",
+        "PM-KISAN Registration ID",
+        "NPCI Active Bank Account"
+      ],
+      "applicationSteps": [
+        "Beneficiary list is auto-mapped from verified PM-KISAN data on mahadbt.maharashtra.gov.in.",
+        "Ensure your 7/12 land record is seeded with Aadhaar at your local Talathi or CSC.",
+        "Verify payment credit status on MahaDBT farmer portal."
+      ],
+      "howToApply": "Auto-credited for PM-KISAN beneficiaries in Maharashtra. Queries at local Talathi or Krishi Sahayak.",
+      "portalUrl": "https://mahadbt.maharashtra.gov.in/",
+      "tags": ["Maharashtra", "State Scheme", "Cash", "DBT", "PM-KISAN Topup"]
+    },
+    {
+      "id": "mahadbt-yantrikaran",
+      "name": "MahaDBT Krishi Yantrikaran & Shet Tale Anudan",
+      "nameLocal": "महाडीबीटी शेततळे अस्तरीकरण व कृषी यांत्रिकीकरण (50% ते 75% अनुदान)",
+      "state": "Maharashtra",
+      "states": ["Maharashtra"],
+      "category": "Farm Machinery & Drones",
+      "categories": ["Farm Machinery & Drones", "Water Conservation", "Subsidies & Equipment"],
+      "summary": "High-subsidy scheme for farm ponds (shet tale with plastic lining up to ₹75,000), tractors (₹1.25 Lakh subsidy), rotavators, power tillers, and onion storage sheds (kanda chawl).",
+      "subsidyHighlight": "Up to 75% Subsidy (Tractors, Shet Tale, Kanda Chawl)",
+      "ministry": "Commissionerate of Agriculture Maharashtra",
+      "imageUrl": "https://images.unsplash.com/photo-1589923188900-85dae523342b?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Small, marginal, and progressive farmers of Maharashtra",
+      "eligibility": "Farmers with valid Maharashtra 7/12 land records. SC/ST and women farmers receive highest subsidy priority.",
+      "benefits": "Direct subsidy on tractor (up to ₹1.25 Lakh), rotavator (₹35,000), farm pond lining (₹75,000), and onion storage structure (₹87,500).",
+      "documentsRequired": [
+        "Aadhaar Card",
+        "7/12 & 8A Extract with water endorsement",
+        "Caste Certificate (for SC/ST quota)",
+        "Quotation from authorized dealer",
+        "Self-declaration of not availing same machine subsidy in last 10 years"
+      ],
+      "applicationSteps": [
+        "Login on MahaDBT portal (mahadbt.maharashtra.gov.in) with Aadhaar.",
+        "Select 'Farmer Schemes' -> 'Agricultural Mechanization' or 'Irrigation Facility'.",
+        "Pay nominal ₹23.60 application fee and participate in weekly computerized lottery.",
+        "On lottery selection, upload dealer quotation, receive pre-sanction, purchase equipment and claim DBT."
+      ],
+      "howToApply": "Online via MahaDBT portal or Common Service Centre (CSC / Aaple Sarkar Seva Kendra).",
+      "portalUrl": "https://mahadbt.maharashtra.gov.in/",
+      "tags": ["Maharashtra", "Tractor", "Shet Tale", "Onion Chawl", "Subsidy"]
+    },
+    {
+      "id": "up-free-boring",
+      "name": "UP Free Boring & Solar Tubewell Scheme",
+      "nameLocal": "उत्तर प्रदेश निःशुल्क बोरिंग योजना व नलकूप अनुदान",
+      "state": "Uttar Pradesh",
+      "states": ["Uttar Pradesh"],
+      "category": "Solar Energy & Irrigation",
+      "categories": ["Solar Energy & Irrigation", "Subsidies & Equipment"],
+      "summary": "Uttar Pradesh Minor Irrigation scheme providing 100% free shallow boring for small and marginal farmers, with grants up to ₹10,000 for pumpset installation and diesel-to-solar conversions.",
+      "subsidyHighlight": "100% Free Boring + ₹10,000 Pumpset Grant",
+      "ministry": "Minor Irrigation Department, Government of Uttar Pradesh",
+      "imageUrl": "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Small and marginal farmers holding up to 2 hectares in UP",
+      "eligibility": "Permanent resident farmers of UP possessing minimum 0.2 hectare cultivable land without dark-zone ground water restrictions.",
+      "benefits": "Free boring boring pipe and labor costs provided by department. General farmers get ₹5,000 subsidy on pump purchase; SC/ST farmers get ₹10,000 subsidy.",
+      "documentsRequired": [
+        "Aadhaar Card and Domicile Certificate",
+        "Khatauni (Land Record)",
+        "Income & Caste Certificate",
+        "Bank Passbook copy"
+      ],
+      "applicationSteps": [
+        "Apply online via upagripardarshi.gov.in or submit form to Block Development Officer (BDO).",
+        "Junior Engineer of Minor Irrigation inspects the proposed site.",
+        "Boring unit allocated and executed free of charge by department rig."
+      ],
+      "howToApply": "Through Block Minor Irrigation Office or online at upagripardarshi.gov.in.",
+      "portalUrl": "https://upagripardarshi.gov.in/",
+      "tags": ["Uttar Pradesh", "Boring", "Irrigation", "Free", "Tubewell"]
+    },
+    {
+      "id": "mp-kisan-kalyan",
+      "name": "Mukhyamantri Kisan Kalyan Yojana (MP)",
+      "nameLocal": "मुख्यमंत्री किसान कल्याण योजना (मध्यप्रदेश — अतिरिक्त ₹6,000 वार्षिक)",
+      "state": "Madhya Pradesh",
+      "states": ["Madhya Pradesh"],
+      "category": "Income Support & Cash Benefit",
+      "categories": ["Income Support & Cash Benefit", "Direct Benefit Transfer"],
+      "summary": "Madhya Pradesh State Government direct cash benefit that supplements PM-KISAN with ₹6,000 per year, providing a combined ₹12,000 annual support to MP farmers.",
+      "subsidyHighlight": "₹6,000/Year Direct State Cash (Total ₹12,000)",
+      "ministry": "Farmer Welfare & Agriculture Development, Government of MP",
+      "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "All verified PM-KISAN beneficiary farmers in Madhya Pradesh",
+      "eligibility": "Landholding farmers of MP who are active beneficiaries of PM-KISAN scheme.",
+      "benefits": "₹6,000 deposited in 3 installments of ₹2,000 directly into Aadhaar-linked accounts.",
+      "documentsRequired": [
+        "Samagra ID and Aadhaar Card",
+        "MP Bhu-Abhilekh Khasra/Khatauni",
+        "Aadhaar-linked Bank Account"
+      ],
+      "applicationSteps": [
+        "Registration is verified by Patwari through SAARA portal (saara.mp.gov.in).",
+        "Farmers already on PM-KISAN are automatically integrated upon Patwari verification."
+      ],
+      "howToApply": "Verified via local Patwari / Tehsildar or on saara.mp.gov.in.",
+      "portalUrl": "https://saara.mp.gov.in/",
+      "tags": ["Madhya Pradesh", "State Scheme", "Cash", "DBT", "Income Support"]
+    },
+    {
+      "id": "rajasthan-tarbandi",
+      "name": "Rajasthan Khet Tarbandi Anudan Yojana",
+      "nameLocal": "राजस्थान खेत तारबंदी योजना (50% से 60% अनुदान — ₹48,000 तक)",
+      "state": "Rajasthan",
+      "states": ["Rajasthan"],
+      "category": "Crop Protection & Fencing",
+      "categories": ["Crop Protection & Fencing", "Subsidies & Equipment"],
+      "summary": "Financial subsidy to fence agricultural fields with barbed wire (up to 400 meters) to protect standing crops from stray cattle, blue bulls (Neelgai), and wild boars.",
+      "subsidyHighlight": "50% to 60% Subsidy (Up to ₹48,000 per Farmer)",
+      "ministry": "Department of Agriculture, Government of Rajasthan",
+      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Individual farmers with min 1.5 Ha or groups with min 5 Ha land in Rajasthan",
+      "eligibility": "Individual small/marginal farmers with 1.5 hectares or group of 2+ farmers with 5 hectares contiguous land.",
+      "benefits": "50% cost of fencing up to ₹40,000 for general farmers; 60% up to ₹48,000 for small and marginal farmers across max 400 meters boundary.",
+      "documentsRequired": [
+        "Jan Aadhaar Card",
+        "Jamabandi (not older than 6 months)",
+        "Field Naksha (Trace map from Patwari)",
+        "Bank Passbook copy"
+      ],
+      "applicationSteps": [
+        "Login to RajKisan Sathi portal (rajkisan.rajasthan.gov.in) via SSO ID.",
+        "Fill Tarbandi application and attach Jamabandi and field trace map.",
+        "Agriculture Supervisor conducts physical verification of field boundaries.",
+        "Construct fencing, geo-tagged photo taken, subsidy credited to bank account."
+      ],
+      "howToApply": "Online through RajKisan Sathi portal or nearest e-Mitra kiosk.",
+      "portalUrl": "https://rajkisan.rajasthan.gov.in/",
+      "tags": ["Rajasthan", "Tarbandi", "Crop Protection", "Subsidy", "Neelgai"]
+    },
+    {
+      "id": "punjab-crm",
+      "name": "Punjab Crop Residue Management (CRM) Subsidy",
+      "nameLocal": "पंजाब पराली प्रबंधन कृषि यंत्र सब्सिडी (सुपर सीडर पर 50% से 80% छूट)",
+      "state": "Punjab",
+      "states": ["Punjab"],
+      "category": "Farm Machinery & Drones",
+      "categories": ["Farm Machinery & Drones", "Subsidies & Equipment"],
+      "summary": "Subsidies on crop residue management machines: Super Seeder, Smart Seeder, Happy Seeder, Mulcher, and Paddy Straw Chopper to eliminate stubble burning.",
+      "subsidyHighlight": "50% Individual & 80% CHC Subsidy",
+      "ministry": "Department of Agriculture & Farmers Welfare, Punjab",
+      "imageUrl": "https://images.unsplash.com/photo-1589923188900-85dae523342b?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Individual farmers, cooperative societies, and panchayats in Punjab",
+      "eligibility": "Farmers cultivating paddy in Punjab owning a registered tractor of 45-65 HP capacity.",
+      "benefits": "50% subsidy for individual farmers on Super Seeder (saving ~₹1.2 Lakh); 80% subsidy for Primary Agriculture Cooperative Societies (PACS) and Panchayats setting up Custom Hiring Centers.",
+      "documentsRequired": [
+        "Aadhaar Card",
+        "Punjab Land Jamabandi Record",
+        "Tractor RC in applicant name",
+        "Bank Account Details"
+      ],
+      "applicationSteps": [
+        "Apply on agrimachinerypb.com during open portal window.",
+        "Select machinery type and preferred authorized manufacturer.",
+        "District level committee sanctions application through lottery.",
+        "Purchase machine from approved empanelled vendor and receive physical verification for subsidy release."
+      ],
+      "howToApply": "Online on agrimachinerypb.com or through Chief Agriculture Officer (CAO).",
+      "portalUrl": "https://agrimachinerypb.com/",
+      "tags": ["Punjab", "Super Seeder", "Paddy", "Subsidy", "Machinery"]
+    },
+    {
+      "id": "bihar-fasal-sahayata",
+      "name": "Bihar Rajya Fasal Sahayata Yojana (BRFSY)",
+      "nameLocal": "बिहार राज्य फसल सहायता योजना (शून्य प्रीमियम — ₹10,000 प्रति हेक्टेयर सहायता)",
+      "state": "Bihar",
+      "states": ["Bihar"],
+      "category": "Crop Insurance & Risk Coverage",
+      "categories": ["Crop Insurance & Risk Coverage", "Disaster Relief"],
+      "summary": "Completely free crop loss financial assistance scheme by Bihar Government for flood, drought, or unseasonal weather damage with zero insurance premium required from farmers.",
+      "subsidyHighlight": "Zero Premium — Up to ₹10,000/Hectare Assistance",
+      "ministry": "Department of Agriculture & Cooperative, Government of Bihar",
+      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Raiyat (landowners) and Gair-Raiyat (tenant/sharecropper) farmers in Bihar",
+      "eligibility": "All cultivating farmers of Bihar who register before the crop season cut-off date. Both owner and tenant farmers eligible.",
+      "benefits": "₹7,500 per hectare for yield loss up to 20%; ₹10,000 per hectare for yield loss greater than 20% (up to 2 hectares per farmer). Zero premium payable.",
+      "documentsRequired": [
+        "Aadhaar Card and Bihar Kisan Registration Number",
+        "LPC (Land Possession Certificate) or Revenue Receipt for owners",
+        "Self-declaration attested by Ward Member / Mukhiya for tenant farmers",
+        "Aadhaar-linked Bank Passbook"
+      ],
+      "applicationSteps": [
+        "Register on dbtagriculture.bihar.gov.in or pacsbihar.nic.in.",
+        "Upload crop sowing self-declaration and land record copy.",
+        "In case of block-level yield deficit, financial assistance credited directly to bank account."
+      ],
+      "howToApply": "Online via Cooperative Department portal (pacsonline.bih.nic.in) or DBT Agriculture Bihar.",
+      "portalUrl": "https://state.bihar.gov.in/krishi/",
+      "tags": ["Bihar", "Fasal Sahayata", "Free Insurance", "Disaster Relief"]
+    },
+    {
+      "id": "pm-kisan",
+      "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+      "nameLocal": "प्रधानमंत्री किसान सम्मान निधि (₹6,000 वार्षिक DBT)",
+      "state": "All India",
+      "states": ["All India", "Maharashtra", "Punjab", "Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Haryana", "Bihar", "Gujarat", "Andhra Pradesh", "Karnataka", "Tamil Nadu", "West Bengal"],
+      "category": "Income Support & Cash Benefit",
+      "categories": ["Income Support & Cash Benefit", "Direct Benefit Transfer"],
+      "summary": "100% Central government funded direct financial assistance of ₹6,000 per year transferred directly into bank accounts in 3 equal four-monthly installments of ₹2,000 each.",
+      "subsidyHighlight": "₹6,000/Year Direct Bank Transfer (DBT)",
+      "ministry": "Ministry of Agriculture & Farmers Welfare",
+      "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "All landholding farmer families across India",
+      "eligibility": "Farmer families with cultivable landholding in revenue records. Institutional landholders, serving/retired government officers, and income taxpayers are excluded.",
+      "benefits": "₹6,000 per year delivered in 3 installments (April-July, August-November, December-March). Guaranteed Aadhaar-seeded Direct Benefit Transfer with zero middlemen.",
+      "documentsRequired": [
+        "Aadhaar Card of head of family & spouse",
+        "Updated Land Record (7/12, Khatauni / Jamabandi / ROR)",
+        "Bank Account Passbook (Aadhaar linked & NPCI active)",
+        "Active Mobile Number for OTP authentication"
+      ],
+      "applicationSteps": [
+        "Visit pmkisan.gov.in and click on 'New Farmer Registration'.",
+        "Enter Aadhaar Number, select State, and verify with Aadhaar OTP.",
+        "Enter Land Khata/Khasra details and upload scanned land revenue copy.",
+        "Submit and track status in 'Beneficiary Status' with eKYC completion."
+      ],
+      "howToApply": "Online via pmkisan.gov.in, nearest Common Service Center (CSC), or Patwari / Village Agricultural Officer.",
+      "portalUrl": "https://pmkisan.gov.in/",
+      "tags": ["All India", "Cash", "DBT", "Central Scheme", "Income Support"]
+    },
+    {
+      "id": "pm-kusum",
+      "name": "PM-KUSUM (Solar Agricultural Pumps)",
+      "nameLocal": "पीएम-कुसुम योजना (सोलर कृषि पंप पर 60% से 90% सब्सिडी)",
+      "state": "All India",
+      "states": ["All India", "Maharashtra", "Punjab", "Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Haryana", "Gujarat", "Karnataka"],
+      "category": "Solar Energy & Irrigation",
+      "categories": ["Solar Energy & Irrigation", "Subsidies & Equipment"],
+      "summary": "Massive government subsidy to install standalone off-grid or grid-connected solar agricultural water pumps (3 HP to 10 HP) and solarize existing diesel or electric pumps.",
+      "subsidyHighlight": "60% to 90% Subsidy on Solar Pumps",
+      "ministry": "Ministry of New and Renewable Energy (MNRE)",
+      "imageUrl": "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Individual farmers, groups, water user associations, and FPOs across India",
+      "eligibility": "Farmers with agricultural land having an irrigation water source (borewell, dugwell, farm pond, canal) without existing energized grid connection or seeking diesel replacement.",
+      "benefits": "Central Government grants 30% subsidy, State Government contributes 30% to 60%, and Bank loans finance up to 30%. The farmer pays as little as 10% to 20% of total pump cost.",
+      "documentsRequired": [
+        "Aadhaar Card and Voter ID",
+        "Land 7/12 Extract, Khasra/Khatauni copy",
+        "Water Source Certificate / Underground Water Board NOC",
+        "Bank Account Details with IFSC"
+      ],
+      "applicationSteps": [
+        "Open your State Renewable Energy Agency portal (e.g. Mahaurja in MH, HAREDA in HR, RREC in RJ).",
+        "Select PM-KUSUM Component-B (Standalone Solar Pump) registration.",
+        "Enter land details, pump capacity required (3HP, 5HP, or 7.5HP), and water table depth.",
+        "Pay farmer share (10%-20%) upon survey approval and choose pump manufacturer vendor."
+      ],
+      "howToApply": "Apply online through State Renewable Energy Development Agencies or the central PM-KUSUM portal.",
+      "portalUrl": "https://pmkusum.mnre.gov.in/",
+      "tags": ["All India", "Solar", "Pump", "Subsidies", "Zero Electricity Bill"]
+    },
+    {
+      "id": "pmfby",
+      "name": "PMFBY (Pradhan Mantri Fasal Bima Yojana)",
+      "nameLocal": "प्रधानमंत्री फसल बीमा योजना (कम प्रीमियम में सम्पूर्ण फसल सुरक्षा)",
+      "state": "All India",
+      "states": ["All India", "Maharashtra", "Madhya Pradesh", "Uttar Pradesh", "Rajasthan", "Haryana", "Odisha", "Tamil Nadu", "Assam"],
+      "category": "Crop Insurance & Risk Coverage",
+      "categories": ["Crop Insurance & Risk Coverage", "Disaster Relief"],
+      "summary": "Comprehensive crop insurance shield protecting farmers from pre-sowing till post-harvest against unseasonal rainfall, floods, droughts, hailstorms, pest attacks, and localized cyclones.",
+      "subsidyHighlight": "Farmer Pays only 1.5% - 2% Premium",
+      "ministry": "Ministry of Agriculture & Farmers Welfare",
+      "imageUrl": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "All farmers growing notified food grains, oilseeds, and horticultural crops",
+      "eligibility": "Owner farmers, sharecroppers, and tenant farmers cultivating notified crops in notified administrative blocks.",
+      "benefits": "Nominal premium: 2% for Kharif crops, 1.5% for Rabi crops, and 5% for annual commercial/horticultural crops. The remaining 80%-95% premium is fully subsidized by Central & State governments.",
+      "documentsRequired": [
+        "Aadhaar Card",
+        "Land Record (7/12, Khatauni or registered tenancy agreement)",
+        "Sowing Certificate issued by Patwari / Village Agricultural Officer",
+        "Bank Passbook copy with active IFSC code"
+      ],
+      "applicationSteps": [
+        "Visit pmfby.gov.in or download the Crop Insurance Mobile App before seasonal cut-off date.",
+        "Choose your State, District, Taluk, Season (Kharif/Rabi), and Crop.",
+        "Calculate premium and submit land survey & sowing proof.",
+        "In case of localized storm/flood damage, report loss within 72 hours via app or toll-free 14447."
+      ],
+      "howToApply": "Online on pmfby.gov.in, nearest bank branch where you hold KCC, CSC center, or Agriculture Insurance Company agents.",
+      "portalUrl": "https://pmfby.gov.in/",
+      "tags": ["All India", "Insurance", "Protection", "Disaster", "Weather Risk"]
+    },
+    {
+      "id": "pmksy",
+      "name": "PMKSY (Per Drop More Crop — Drip & Sprinkler)",
+      "nameLocal": "प्रधानमंत्री कृषि सिंचाई योजना (ड्रिप व स्प्रिंकलर पर 45% से 55% अनुदान)",
+      "state": "All India",
+      "states": ["All India", "Maharashtra", "Gujarat", "Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu", "Madhya Pradesh", "Punjab", "Haryana", "Uttar Pradesh"],
+      "category": "Micro-Irrigation & Water Conservation",
+      "categories": ["Micro-Irrigation & Water Conservation", "Subsidies & Equipment"],
+      "summary": "State and Central joint subsidy scheme to install precision drip irrigation systems and portable/micro sprinklers to boost crop yields by 30-40% while saving 50% irrigation water.",
+      "subsidyHighlight": "45% to 55% Subsidy (Up to 80% for SC/ST/Small Farmers)",
+      "ministry": "Ministry of Agriculture & Farmers Welfare",
+      "imageUrl": "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Small, marginal and commercial orchard/vegetable growers across India",
+      "eligibility": "Farmers having cultivable land with assured round-the-year water source (well, tubewell, farm pond). Special priority for women and SC/ST farmers.",
+      "benefits": "55% financial assistance for small/marginal farmers (<2 Ha) and 45% for other farmers. Enables fertigation directly to roots, reducing fertilizer waste by 35% and labor costs by 60%.",
+      "documentsRequired": [
+        "Land Record (7/12 or Jamabandi with current year crop entry)",
+        "Aadhaar Card and Caste Certificate (for extra subsidy)",
+        "Farm Map / Field Sketch with water source location",
+        "Water & Soil Test Report from certified laboratory"
+      ],
+      "applicationSteps": [
+        "Register on your State Horticulture/Agriculture Micro-Irrigation portal (e.g. MahaDBT, e-Horticulture).",
+        "Upload land records and select registered vendor for field survey and GPS layout design.",
+        "Horticulture Officer reviews and issues administrative pre-sanction approval.",
+        "Vendor installs system; physical verification done; subsidy credited directly to bank/vendor account."
+      ],
+      "howToApply": "Online through State Horticulture/Agriculture Portals or Block Assistant Director of Horticulture office.",
+      "portalUrl": "https://pmksy.gov.in/",
+      "tags": ["All India", "Drip", "Sprinkler", "Water Saving", "Higher Yield"]
+    },
+    {
+      "id": "smam-mechanization",
+      "name": "SMAM (Sub-Mission on Agricultural Mechanization)",
+      "nameLocal": "कृषि यंत्रीकरण उप-अभियान (ट्रैक्टर, ड्रोन व आधुनिक यंत्रों पर 40% से 50% छूट)",
+      "state": "All India",
+      "states": ["All India", "Punjab", "Haryana", "Uttar Pradesh", "Maharashtra", "Madhya Pradesh", "Bihar", "Telangana", "Karnataka"],
+      "category": "Farm Machinery & Drones",
+      "categories": ["Farm Machinery & Drones", "Subsidies & Equipment"],
+      "summary": "Subsidies on agricultural machinery including high-tech agricultural drones, laser land levelers, rotavators, power tillers, combine harvesters, and Custom Hiring Centers (CHC).",
+      "subsidyHighlight": "40% to 50% Subsidy (Up to ₹5 Lakh for CHC Drones)",
+      "ministry": "Ministry of Agriculture & Farmers Welfare",
+      "imageUrl": "https://images.unsplash.com/photo-1589923188900-85dae523342b?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Individual farmers, farm youth entrepreneurs, FPOs, and Panchayats",
+      "eligibility": "Farmers with valid land records. Priority given to small, marginal, women, and SC/ST farmers. Custom Hiring Centers eligible for up to 80% project subsidy.",
+      "benefits": "Reduces cost of cultivation by 25% and human drudgery. Agricultural spray drones enable 1 acre spraying in 7 minutes using 90% less water and zero human chemical exposure.",
+      "documentsRequired": [
+        "Aadhaar Card and Driving License / Identity Proof",
+        "Land Record documents (Khatoni / 7/12)",
+        "Bank Passbook copy with active IFSC",
+        "Cast Certificate (if applicable for enhanced 50% bracket)"
+      ],
+      "applicationSteps": [
+        "Visit the Direct Benefit Transfer in Agricultural Mechanization portal: agrimachinery.nic.in.",
+        "Select 'Farmer Registration' and enter Aadhaar and Mobile Number.",
+        "Select Machine Category (e.g. Tractor, Power Weeder, Drone, Combine Harvester).",
+        "Upload quotation, receive lottery / queue sanction order, purchase machine, and claim subsidy."
+      ],
+      "howToApply": "Online at agrimachinery.nic.in or through District Agricultural Engineering Officer.",
+      "portalUrl": "https://agrimachinery.nic.in/",
+      "tags": ["All India", "Tractor", "Drone", "Mechanization", "Subsidy"]
+    },
+    {
+      "id": "kcc-loan",
+      "name": "Kisan Credit Card (KCC) & Interest Subvention",
+      "nameLocal": "किसान क्रेडिट कार्ड (4% रियायती ब्याज दर पर ₹3 लाख तक ऋण)",
+      "state": "All India",
+      "states": ["All India"],
+      "category": "Credit, Banking & Finance",
+      "categories": ["Credit, Banking & Finance", "Working Capital"],
+      "summary": "Short-term agricultural working capital loan up to ₹3 Lakh at an effective concessional interest rate of just 4% per annum (with prompt repayment incentive), free from money lender traps.",
+      "subsidyHighlight": "Effective 4% Low Interest Rate (Up to ₹1.6 Lakh Collateral-Free)",
+      "ministry": "Ministry of Finance & Reserve Bank of India (RBI)",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Owner cultivators, tenant farmers, sharecroppers, animal husbandry & fisheries farmers",
+      "eligibility": "All farmers cultivating crops, maintaining milk cattle, poultry, or fish ponds. Age 18 to 75 years.",
+      "benefits": "Base interest is 7%. Government gives 3% Prompt Repayment Incentive (PRI), bringing net interest down to 4% per year. Includes RuPay KCC Debit Card for instant cash withdrawals at any ATM.",
+      "documentsRequired": [
+        "Duly filled one-page KCC Application Form",
+        "Aadhaar Card, PAN Card, and Voter ID",
+        "Land Title / Revenue Record (Pahani / 7/12 / Jamabandi)",
+        "No-Dues Certificate / Affidavit of no unpaid loan from other banks"
+      ],
+      "applicationSteps": [
+        "Download one-page simple KCC form from pmkisan.gov.in or collect from your local bank branch.",
+        "Fill crop details, acreage, and attached land record verification.",
+        "Submit to your local Commercial Bank, Regional Rural Bank (RRB), or Cooperative Society.",
+        "Bank processes and issues RuPay KCC card within 14 working days."
+      ],
+      "howToApply": "At any Public Sector Bank, Cooperative Bank, Regional Rural Bank, or online via bank portals.",
+      "portalUrl": "https://www.myscheme.gov.in/schemes/kcc",
+      "tags": ["All India", "Loan", "Credit", "Low Interest", "Working Capital"]
+    },
+    {
+      "id": "soil-health-card",
+      "name": "Soil Health Card Scheme",
+      "nameLocal": "मृदा स्वास्थ्य कार्ड योजना (मिट्टी की नि:शुल्क जांच व संतुलित खाद परामर्श)",
+      "state": "All India",
+      "states": ["All India"],
+      "category": "Soil Testing & Crop Nutrition",
+      "categories": ["Soil Testing & Crop Nutrition", "Cost Reduction"],
+      "summary": "Free soil sample testing providing customized soil health report with 12 parameters (pH, EC, Organic Carbon, N, P, K, S, Zn, Fe, Cu, Mn, B) and tailored fertilizer recommendations.",
+      "subsidyHighlight": "100% Free Soil Nutrient Testing & Advisory",
+      "ministry": "Ministry of Agriculture & Farmers Welfare",
+      "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "All farmers across all agro-ecological zones of India",
+      "eligibility": "Every landholding farmer in India is entitled to a Soil Health Card updated every 3 years.",
+      "benefits": "Prevents over-application of Urea and DAP, reducing input costs by 15-20% (₹2,500 to ₹4,000 per acre saved) while restoring soil vitality and boosting harvest yield by 8-10%.",
+      "documentsRequired": [
+        "Farmer's Aadhaar Card",
+        "Khasra / Survey Number of the plot",
+        "Previous crop and planned upcoming crop information"
+      ],
+      "applicationSteps": [
+        "Soil samples are collected in a grid pattern (2.5 ha for irrigated, 10 ha for rainfed) by Agriculture Department or KVK.",
+        "Samples are tested in district Soil Testing Laboratories (STLs).",
+        "Printed or digital Soil Health Card is issued with crop-specific fertilizer dosage.",
+        "View and download your digital card anytime using Khasra number on soilhealth.dac.gov.in."
+      ],
+      "howToApply": "Contact local Gram Sevak, Agriculture Assistant, Krishi Vigyan Kendra, or check online at soilhealth.dac.gov.in.",
+      "portalUrl": "https://soilhealth.dac.gov.in/",
+      "tags": ["All India", "Soil Test", "Free", "Fertilizer", "Nutrition"]
+    },
+    {
+      "id": "pkvy-organic",
+      "name": "PKVY (Paramparagat Krishi Vikas Yojana)",
+      "nameLocal": "परम्परागत कृषि विकास योजना (प्राकृतिक व जैविक खेती हेतु ₹50,000 प्रति हेक्टेयर)",
+      "state": "All India",
+      "states": ["All India", "Uttarakhand", "Himachal Pradesh", "Sikkim", "Maharashtra", "Madhya Pradesh", "Karnataka", "Kerala"],
+      "category": "Organic & Natural Farming",
+      "categories": ["Organic & Natural Farming", "Sustainability"],
+      "summary": "Cluster-based promotion of traditional organic and zero-budget natural farming without synthetic pesticides or chemical fertilizers, with PGS organic certification and direct marketing.",
+      "subsidyHighlight": "₹50,000/Hectare Financial Support over 3 Years",
+      "ministry": "Ministry of Agriculture & Farmers Welfare",
+      "imageUrl": "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?w=800&auto=format&fit=crop&q=80",
+      "targetFarmers": "Farmers forming clusters of 20 to 50 hectares",
+      "eligibility": "Individual farmers forming a group/cluster willing to adopt organic farming practices and PGS-India certification for a minimum period of 3 years.",
+      "benefits": "₹31,000/ha is directly transferred to farmers for organic inputs (biopesticides, neem cake, vermicompost, jeevamrit), plus ₹8,800/ha for post-harvest packaging, branding, and marketing.",
+      "documentsRequired": [
+        "Aadhaar Card and Land Records of group members",
+        "Cluster Formation Resolution & President/Secretary nomination",
+        "Bank Account in cluster name or individual DBT accounts"
+      ],
+      "applicationSteps": [
+        "Form an organic farmer cluster with at least 20-50 local farmers.",
+        "Submit cluster proposal to the District Agriculture Officer / Regional Council.",
+        "Enroll on the PGS-India portal (pgsindia-ncof.gov.in).",
+        "Receive annual input grants, maintain peer reviews, and get green PGS organic certification."
+      ],
+      "howToApply": "Through District Agriculture Officer, National Centre of Organic and Natural Farming, or jaivikkheti.in.",
+      "portalUrl": "https://pgsindia-ncof.gov.in/",
+      "tags": ["All India", "Organic", "Natural Farming", "Cluster", "Zero Chemical"]
+    }
+  ]
+}
