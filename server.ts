@@ -96,6 +96,16 @@ function getLanguagePrompt(code: string): string {
   return LANGUAGE_NAMES[code] || 'English';
 }
 
+// Health check endpoint for verifying deployment & API key status
+app.get('/api/health', (req, res) => {
+  const apiKey = process.env.GEMINI_API_KEY || process.env.VITE_GEMINI_API_KEY;
+  res.json({
+    status: 'ok',
+    hasGeminiKey: Boolean(apiKey && apiKey.length > 5),
+    timestamp: new Date().toISOString(),
+  });
+});
+
 // 1. GET /api/meta
 app.get('/api/meta', (req, res) => {
   const lang = (req.query.lang as string) || 'en';
@@ -712,7 +722,15 @@ async function startServer() {
 }
 
 // Start standalone server only if not running inside Vercel Serverless environment
-if (!process.env.VERCEL && process.env.NODE_ENV !== 'test') {
+const isServerless = Boolean(
+  process.env.VERCEL ||
+  process.env.NOW_REGION ||
+  process.env.AWS_REGION ||
+  process.env.LAMBDA_TASK_ROOT ||
+  process.env.VERCEL_ENV
+);
+
+if (!isServerless && process.env.NODE_ENV !== 'test') {
   startServer();
 }
 
